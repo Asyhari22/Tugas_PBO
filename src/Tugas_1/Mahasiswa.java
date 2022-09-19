@@ -40,10 +40,6 @@ public class Mahasiswa {
         return this.prodi;
     }
     
-    public int getSpp(){
-        return this.spp;
-    }
-    
     public int getAngkatan(){
         return this.angkatan;
     }
